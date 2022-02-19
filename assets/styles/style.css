@@ -7,6 +7,7 @@ header {
       rgba(207, 0, 99, 0) 100%
     ),
     #cf0063;
+  /* Почему-то не получился градиент, так и не разобралась */
   border-radius: 0px;
   background-image: url(../images/image_1.png);
   background-size: 630px 660px;
